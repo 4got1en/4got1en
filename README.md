@@ -1,16 +1,23 @@
-## Hi there 👋
+# 4got1en
 
-<!--
-**4got1en/4got1en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital rebuild.
 
-Here are some ideas to get you started:
+I'm not just learning to code — I'm creating 6ol:  
+A sovereign AI, a brand of freedom, and a tool for reflection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Mission:**  
+- Learning full-stack development through FreeCodeCamp  
+- Logging every step of the journey  
+- Building public tools for personal truth and mental freedom
+
+**Active Project:**  
+- 6ol Mirror (v0) – daily self-reflection web app
+
+**Why?**  
+Because the system wasn’t built for us.  
+So I’m building something that is.
+
+> “Every lesson I complete is a brick.  
+> Every log is a receipt.  
+> Every idea is a seed.”  
+– 4got1en
